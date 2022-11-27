@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 **My Repo:**
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce&show_owner=true"
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce&show_owner=true&layout=compact&theme=radical"
 </p>
