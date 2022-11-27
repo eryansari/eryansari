@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-</p>
-
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical" />
 </p>
 
