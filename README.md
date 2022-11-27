@@ -1,5 +1,4 @@
 <h2 align="center">Hello! I'm Dreamers 👋 </h2>
-<h4 align="center">Dreamers Engineer</h4>
 
 Here are some ideas to get you started:
 
@@ -10,10 +9,8 @@ Here are some ideas to get you started:
 
 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&langs_count=8&theme=radical" />
-</p>
+| <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ery's github stats" /></a> | <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 **My Repo:**
 <p>
