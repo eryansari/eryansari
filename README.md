@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🚀👨‍🚀 dreamers to be astronout engineer
+- 🚀👨‍🚀 dreamers going to Mars!
 - 💬 Ask me about anything, i will give you solutions from google ❤️❤️
 
 </br>
