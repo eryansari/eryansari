@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </br>
 **My Repo:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce)](https://github.com/eryansari/gocommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce&show_owner=true)](https://github.com/eryansari/gocommerce)
