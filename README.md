@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 </br>
 
 **My GitHub Stats:**
-| <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ery's github stats" /></a> | <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ery's github stats" /></a>
+<a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical&hide_border=true" /></a>
 
 **My Repo:**
 </br>
