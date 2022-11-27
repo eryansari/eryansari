@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eryansari&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical" />
 </p>
 
 </br>
