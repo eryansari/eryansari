@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&langs_count=8&theme=cobalt" />
 </p>
 
 **My Repo:**
