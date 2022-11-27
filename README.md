@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 | <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eryansari&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ery's github stats" /></a> | <a href="https://github.com/eryansari/eryansari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryansari&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/eryansari/eryansari"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce&show_owner=true&layout=compact&theme=radical" /></a>
+<center><a href="https://github.com/eryansari/eryansari"><img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=eryansari&repo=gocommerce&show_owner=true&layout=compact&theme=radical" /></a></center>
